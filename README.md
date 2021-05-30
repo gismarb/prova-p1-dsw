@@ -18,11 +18,13 @@ A criação do repositório (assim como o devido conteúdo), além de ser uma ob
 
 [Introdução](#introdução)
 
-[Questão 01](#questão 01)
+[Questão 01](#questão01)
 
-[Questão 02](#questão 03)
+[Questão 02](#questão02)
 
-[Questão 03](#questão 03)
+[Questão 03](#questão03)
+
+[Questão 04](#questão04)
 
 [Referências](#referências)
 
@@ -85,11 +87,11 @@ A criação do repositório (assim como o devido conteúdo), além de ser uma ob
 
 ### Referências
 
-[Referência para questões (contexto)](http://www.cs.utsa.edu/~cs3443/uml/uml.html) 
-[Design PatternStrategy](https://refactoring.guru/design-patterns/strategy)
-[RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=pt-br)
-[CardView](https://developer.android.com/jetpack/androidx/releases/cardview)
-[Glide](https://bumptech.github.io/glide/doc/download-setup.html)
-[Github (aceiro/dogs2021)](https://github.com/aceiro/dogs2021)
-[Github (aceiro/listadessoft)](https://github.com/aceiro/listadessoft)
+- [Referência para questões](http://www.cs.utsa.edu/~cs3443/uml/uml.html) 
+- [Design PatternStrategy](https://refactoring.guru/design-patterns/strategy)
+- [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=pt-br)
+- [CardView](https://developer.android.com/jetpack/androidx/releases/cardview)
+- [Glide](https://bumptech.github.io/glide/doc/download-setup.html)
+- [Github - aceiro/dogs2021](https://github.com/aceiro/dogs2021)
+- [Github - aceiro/listadessoft](https://github.com/aceiro/listadessoft)
 
